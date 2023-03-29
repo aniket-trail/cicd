@@ -1,0 +1,106 @@
+First Event 
+
+{
+  "data": {
+    "schema": "1beW2X422FEMhOCUtAWtMg",
+    "payload": {
+      "Sales_Escalated_Requested_Date__c": null,
+      "FinancialAccountNumber__c": null,
+      "FinancialAccount_r_Primary_Project_Type__c": null,
+      "Real_Estate_Agent_Phone__c": null,
+      "FinancialAccount_r_Target_Balance_Date__c": null,
+      "Real_Estate_Agent_Cell__c": null,
+      "Sales_Escalation_Reason__c": null,
+      "FinServ_Balance__c": null,
+      "Denial_Requested__c": false,
+      "Denial_Category__c": null,
+      "CreatedById": "0054C000003empvQAA",
+      "Opportunity_Name__c": null,
+      "Denial_Requested_Date__c": null,
+      "Turndown_Comments__c": null,
+      "Id__c": null,
+      "FinServ_InterestRate__c": null,
+      "Real_Estate_Agent_Email__c": null,
+      "eSign_Date__c": null,
+      "LeadSource__c": null,
+      "Denial_Requestor__c": null,
+      "Velocify_Lead_ID__c": null,
+      "CCA_Name_c__c": null,
+      "Client_Withdraw_Method__c": null,
+      "SOC_New_Comment__c": null,
+      "FinancialAccount_LoanAmount__c": null,
+      "Account_Contact_Notes__c": null,
+      "FinancialAccount_r_First_Payment_Date__c": null,
+      "Real_Estate_Agent_Company__c": null,
+      "Denial_Lock_Disposition__c": null,
+      "SOC_New_Comment_User__c": null,
+      "Amount__c": "",
+      "FinancialAccount_r_All_Project_Type_s__c": null,
+      "FinancialAccount_Loan_StartDate__c": null,
+      "Real_Estate_Agent_Name__c": null,
+      "CreatedDate": "2022-06-22T19:07:57.704Z",
+      "FinServ_LoanTermMonths__c": null,
+      "FinancialAccount_r_Loan_Product__c": null,
+      "SOC_Resolved_SOS__c": false,
+      "CloseDate__c": "2022-07-27",
+      "Sales_Escalation_Requested_By__c": null
+    },
+    "event": {
+      "replayId": 43119828
+    }
+  },
+  "channel": "/event/Opportunity__e"
+}
+
+Second Event
+{
+  "data": {
+    "schema": "1beW2X422FEMhOCUtAWtMg",
+    "payload": {
+      "Sales_Escalated_Requested_Date__c": null,
+      "FinancialAccountNumber__c": null,
+      "FinancialAccount_r_Primary_Project_Type__c": null,
+      "Real_Estate_Agent_Phone__c": "",
+      "FinancialAccount_r_Target_Balance_Date__c": null,
+      "Real_Estate_Agent_Cell__c": "",
+      "Sales_Escalation_Reason__c": "",
+      "FinServ_Balance__c": null,
+      "Denial_Requested__c": false,
+      "Denial_Category__c": "",
+      "CreatedById": "0054C000003empqQAA",
+      "Opportunity_Name__c": "dummy",
+      "Denial_Requested_Date__c": null,
+      "Turndown_Comments__c": null,
+      "Id__c": "0064C00000G7IaZQAV",
+      "FinServ_InterestRate__c": null,
+      "Real_Estate_Agent_Email__c": "",
+      "eSign_Date__c": null,
+      "LeadSource__c": "Mortgage Transfer",
+      "Denial_Requestor__c": "",
+      "Velocify_Lead_ID__c": "",
+      "CCA_Name_c__c": "",
+      "Client_Withdraw_Method__c": "",
+      "SOC_New_Comment__c": "",
+      "FinancialAccount_LoanAmount__c": null,
+      "Account_Contact_Notes__c": null,
+      "FinancialAccount_r_First_Payment_Date__c": null,
+      "Real_Estate_Agent_Company__c": "",
+      "Denial_Lock_Disposition__c": "",
+      "SOC_New_Comment_User__c": "",
+      "Amount__c": "",
+      "FinancialAccount_r_All_Project_Type_s__c": null,
+      "FinancialAccount_Loan_StartDate__c": null,
+      "Real_Estate_Agent_Name__c": "",
+      "CreatedDate": "2022-06-22T18:18:00.263Z",
+      "FinServ_LoanTermMonths__c": null,
+      "FinancialAccount_r_Loan_Product__c": null,
+      "SOC_Resolved_SOS__c": false,
+      "CloseDate__c": "2021-11-30",
+      "Sales_Escalation_Requested_By__c": ""
+    },
+    "event": {
+      "replayId": 43118628
+    }
+  },
+  "channel": "/event/Opportunity__e"
+}
